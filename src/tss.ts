@@ -7,6 +7,7 @@ function useContext() {
       text: {
         primary: '#FAFAFA',
       },
+      hover: '#1677ff',
     },
   };
 
